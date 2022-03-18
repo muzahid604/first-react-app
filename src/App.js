@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 function App() {
   const players = ['sakib', 'tamim', 'nasir', 'sabbir']
-  const profession = ['cricket', 'ka']
+  const profession = ['they', ' are', 'cricketer']
   return (
     <div className="App">
       {
